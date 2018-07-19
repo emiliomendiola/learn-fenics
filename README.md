@@ -1,4 +1,4 @@
-#FEniCS
+# Learn FEniCS
 
 ## Version installed:
 - FEniCS 2016.1 (gcc 6.1, python 2, openblas)
@@ -47,5 +47,3 @@ source /opt/apps/ossw/applications/fenics-h/gcc_6.1/2017.2/fenics
 The folders `$HOME/.fenics_cache/$HOSTNAME/instant/$PROFILE` and `$HOME/.fenics_cache/$HOSTNAME/dijitso/$PROFILE`
 will be used to store the cache for the FEniCS just in time compiler. 
 Here, `$PROFILE` expands to a unique identifier for the specific version of FEniCS that was loaded.
-
-# learn-fenics
